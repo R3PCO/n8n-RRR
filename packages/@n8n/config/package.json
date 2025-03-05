@@ -22,7 +22,7 @@
   ],
   "engines": {
     "node":">=18.0.0<20.0.0",
-    "pnpm":>="10.2.1"
+    "pnpm":">=10.2.1"
   }
   "dependencies": {
     "@n8n/di": "workspace:*",
