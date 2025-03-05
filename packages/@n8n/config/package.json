@@ -20,6 +20,10 @@
   "files": [
     "dist/**/*"
   ],
+  "engines": {
+    "node":">=18.00<20.00",
+    "pnpm":>="10.2.1"
+  }
   "dependencies": {
     "@n8n/di": "workspace:*",
     "reflect-metadata": "catalog:"
